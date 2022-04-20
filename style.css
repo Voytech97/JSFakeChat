@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: cadetblue;
+    color: cornsilk;
+}
+
+#container {
+    height: 200px;
+    width: 500px;
+    padding: 5px;
+    color: black;
+    background-color: rgb(187, 187, 187);
+    overflow: hidden;
+    scroll-behavior: smooth;
+    border-radius: 10px;
+}
